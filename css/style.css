@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.profile-card{
+        width: 300px;
+        border: 2px solid #333;
+        padding: 20px;
+        margin: 0px auto;
+        text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        background-color: #f9f9f9;
+        margin-top: 30px;    
+}
+.profile-card a{
+    background: rgb(15, 133, 180);
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+img{
+    border-radius: 90%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    border: 3px solid blue;
+}
